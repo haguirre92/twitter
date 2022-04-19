@@ -1,0 +1,3 @@
+go 1.18
+
+replace D:/projects/go => D:/projects/go/twitter/src/github.com/haguirre92/twitter
